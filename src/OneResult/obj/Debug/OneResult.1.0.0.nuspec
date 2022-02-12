@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OneResult</id>
+    <version>1.0.0</version>
+    <authors>UthmanRahimi</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>Pink Solid Icons Icon Set.png</icon>
+    <description>OneResult provide a model to be used as a output result for methods.</description>
+    <tags>OneResult, ActionResult, OperationResult</tags>
+    <repository type="git" url="https://github.com/uthmanrahimi/OneResult" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="I:\Projects\Github\ActionResult\src\OneResult\bin\Debug\net5.0\OneResult.dll" target="lib\net5.0\OneResult.dll" />
+    <file src="C:\Users\Uthman\Downloads\Pink Solid Icons Icon Set.png" target="Pink Solid Icons Icon Set.png" />
+  </files>
+</package>

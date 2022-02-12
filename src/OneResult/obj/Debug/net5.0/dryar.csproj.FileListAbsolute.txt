@@ -1,0 +1,12 @@
+I:\Projects\Github\ActionResult\src\dryar\bin\Debug\net5.0\dryar.deps.json
+I:\Projects\Github\ActionResult\src\dryar\bin\Debug\net5.0\dryar.dll
+I:\Projects\Github\ActionResult\src\dryar\bin\Debug\net5.0\ref\dryar.dll
+I:\Projects\Github\ActionResult\src\dryar\bin\Debug\net5.0\dryar.pdb
+I:\Projects\Github\ActionResult\src\dryar\obj\Debug\net5.0\dryar.csproj.AssemblyReference.cache
+I:\Projects\Github\ActionResult\src\dryar\obj\Debug\net5.0\dryar.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\Github\ActionResult\src\dryar\obj\Debug\net5.0\dryar.AssemblyInfoInputs.cache
+I:\Projects\Github\ActionResult\src\dryar\obj\Debug\net5.0\dryar.AssemblyInfo.cs
+I:\Projects\Github\ActionResult\src\dryar\obj\Debug\net5.0\dryar.csproj.CoreCompileInputs.cache
+I:\Projects\Github\ActionResult\src\dryar\obj\Debug\net5.0\dryar.dll
+I:\Projects\Github\ActionResult\src\dryar\obj\Debug\net5.0\ref\dryar.dll
+I:\Projects\Github\ActionResult\src\dryar\obj\Debug\net5.0\dryar.pdb

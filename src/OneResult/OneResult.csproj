@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Description>OneResult provide a model to be used as a output result for methods.
+</Description>
+    <PackageTags>OneResult, ActionResult, OperationResult</PackageTags>
+    <Company>Uthman Rahimi</Company>
+    <Authors>UthmanRahimi</Authors>
+    <PackageIcon>Pink Solid Icons Icon Set.png</PackageIcon>
+    <PackageIconUrl />
+    <RepositoryUrl>https://github.com/uthmanrahimi/OneResult</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Uthman\Downloads\Pink Solid Icons Icon Set.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

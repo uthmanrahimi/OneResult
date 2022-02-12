@@ -1,0 +1,12 @@
+I:\Projects\Github\ActionResult\src\OneResult\bin\Debug\net5.0\OneResult.deps.json
+I:\Projects\Github\ActionResult\src\OneResult\bin\Debug\net5.0\OneResult.dll
+I:\Projects\Github\ActionResult\src\OneResult\bin\Debug\net5.0\ref\OneResult.dll
+I:\Projects\Github\ActionResult\src\OneResult\bin\Debug\net5.0\OneResult.pdb
+I:\Projects\Github\ActionResult\src\OneResult\obj\Debug\net5.0\OneResult.csproj.AssemblyReference.cache
+I:\Projects\Github\ActionResult\src\OneResult\obj\Debug\net5.0\OneResult.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\Github\ActionResult\src\OneResult\obj\Debug\net5.0\OneResult.AssemblyInfoInputs.cache
+I:\Projects\Github\ActionResult\src\OneResult\obj\Debug\net5.0\OneResult.AssemblyInfo.cs
+I:\Projects\Github\ActionResult\src\OneResult\obj\Debug\net5.0\OneResult.csproj.CoreCompileInputs.cache
+I:\Projects\Github\ActionResult\src\OneResult\obj\Debug\net5.0\OneResult.dll
+I:\Projects\Github\ActionResult\src\OneResult\obj\Debug\net5.0\ref\OneResult.dll
+I:\Projects\Github\ActionResult\src\OneResult\obj\Debug\net5.0\OneResult.pdb
